@@ -21,7 +21,7 @@
 /**
  * App ID for the skill
  */
-var APP_ID = undefined; //replace with "amzn1.echo-sdk-ams.app.[your-unique-value-here]";
+var APP_ID = "amzn1.echo-sdk-ams.app.172c70d6-e45b-4da6-8908-020d7bf136e7"; //replace with "amzn1.echo-sdk-ams.app.[your-unique-value-here]";
 
 /**
  * Array containing facts about Bulldogs.
