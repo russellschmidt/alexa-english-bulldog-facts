@@ -4,7 +4,7 @@ Facts about English Bulldogs as an Alexa skill
 alexa-english-bulldog-facts
 Facts about English Bulldogs as an Alexa skill
 
-This is my intent schema
+## This is my intent schema
 
 ```json
 {
@@ -25,7 +25,9 @@ This is my intent schema
 }
 ```
 
-These are the Sample Utterances I used
+## These are the Sample Utterances I used
+
+```
 GetNewFactIntent a fact 
 GetNewFactIntent a bulldog fact 
 GetNewFactIntent a fact about bulldogs 
@@ -132,3 +134,5 @@ GetNewFactIntent what is your favorite bulldog fact
 GetNewFactIntent yo tell me about bulldogs 
 GetNewFactIntent what's new with bulldogs 
 GetNewFactIntent impress me with your bulldog knowledge
+```
+
