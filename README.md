@@ -1,8 +1,13 @@
 # alexa-english-bulldog-facts
 Facts about English Bulldogs as an Alexa skill
 
-alexa-english-bulldog-facts
-Facts about English Bulldogs as an Alexa skill
+## Naming Conventions
+
+Skill name: funBulldogFacts
+
+Invocation Name: Fun Bulldog Facts
+
+Runtime: Node.js
 
 ## This is my intent schema
 
@@ -45,7 +50,7 @@ GetNewFactIntent teach me a fact for a bulldogger
 GetNewFactIntent tell me a fact 
 GetNewFactIntent tell me stuff about bulldogs 
 GetNewFactIntent tell me bulldog facts 
-etNewFactIntent tell me a bulldog fact 
+GetNewFactIntent tell me a bulldog fact 
 GetNewFactIntent tell me a fact about bulldogs 
 GetNewFactIntent tell me a fact about bullies 
 GetNewFactIntent tell me a fact for a bulldogger
